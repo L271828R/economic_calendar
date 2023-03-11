@@ -1,0 +1,25 @@
+ISM services START
+
+The ISM Services Economic Report is a widely followed economic indicator that provides information about the state of the US service sector, which accounts for a significant portion of the country's economic activity.
+The Institute for Supply Management (ISM) produces this report on a monthly basis. The report is based on a survey of purchasing and supply executives from various industries, including finance, healthcare, retail, and transportation. The survey asks respondents to provide information about their company's business activity, new orders, employment, and supplier deliveries.
+The ISM Services Economic Report includes several key components, including:
+    Business Activity Index: This index measures the level of business activity in the service sector, such as the number of orders received, inventory levels, and production.
+    New Orders Index: This index tracks the number of new orders received by service sector companies.
+    Employment Index: This index measures the level of employment in the service sector.
+    Supplier Deliveries Index: This index tracks the time it takes for suppliers to deliver goods and services to service sector companies.
+    Prices Index: This index measures changes in the prices of goods and services in the service sector.
+Taken together, these components provide insight into the overall health and direction of the service sector, and by extension, the broader US economy. Investors, economists, and policymakers use the ISM Services Economic Report to monitor economic trends, forecast future economic activity, and make informed decisions about investments and policy.
+
+ISM services END
+
+Factory orders START
+
+n an economic report, "factory orders" refer to a statistical measure of the dollar value of new orders received by manufacturers for durable and non-durable goods during a specific period of time. These orders include goods such as machinery, computers, electronics, and other manufactured products.
+
+The factory orders data is collected by the U.S. Census Bureau and is released monthly in a report called the "Manufacturers' Shipments, Inventories, and Orders" (M3) survey. The M3 survey includes data on both durable goods orders and non-durable goods orders.
+
+Durable goods are products that are expected to last three years or more, such as cars, appliances, and machinery. Non-durable goods are products with a lifespan of less than three years, such as food, clothing, and personal care products.
+
+Factory orders are considered a leading indicator of economic activity, as they reflect the level of demand for manufactured goods. An increase in factory orders can indicate strong economic growth, while a decrease in factory orders can signal a slowdown in economic activity. Therefore, economists and policymakers closely monitor factory orders data to assess the health of the manufacturing sector and the overall economy.
+
+Factory orders END
