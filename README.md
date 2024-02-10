@@ -1,6 +1,6 @@
 # Economic Calendar Scraper
 
-test
+test 2
 
 This script scrapes the economic calendar data from the MarketWatch website and prints it to the console.
 Setup
